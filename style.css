@@ -6,6 +6,7 @@ input{
     border: 2px solid navy;
 }
 .navbar{
+    position: fixed;
     background-color: rgb(32, 18, 112);
     height: 40px;
     width: 100%;
